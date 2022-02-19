@@ -1,6 +1,6 @@
 {
   "name": "npmone",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0",
   "description": "NPM test #1",
   "main": "index.js",
   "scripts": {
